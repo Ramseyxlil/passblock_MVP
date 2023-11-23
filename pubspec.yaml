@@ -14,7 +14,7 @@ dependencies:
 
   bloc: ^8.1.2
   cached_network_image: ^3.2.3
-  connectivity_plus: ^3.0.3
+  connectivity_plus: ^5.0.2
   cupertino_icons:
   dartz: ^0.10.1
   equatable:
